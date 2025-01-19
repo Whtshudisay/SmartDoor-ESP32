@@ -61,5 +61,5 @@ Before running the project, ensure that you have the following:
 - 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at yashavjekar@gmail.com.
+For any questions or suggestions, feel free to contact me at yashavjekar2455@gmail.com.
 
