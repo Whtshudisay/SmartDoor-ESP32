@@ -23,8 +23,8 @@ Before running the project, ensure that you have the following:
 ## Installation
 
 1. **Clone the repository:
-   git clone https://github.com/Whtshudisay/IOT_DOOR.git
-   cd IoT-Door-Control
+   git clone https://github.com/Whtshudisay/SmartDoor-ESP32
+   cd SmartDoor-ESP32
 2. **Install the necessary libraries:**
    - **Blynk Library**: In Arduino IDE, go to **Sketch** > **Include Library** > **Manage Libraries**, then search for and install the `Blynk` library.
    - **WiFi Library**: The `WiFi.h` library is included by default for ESP32 boards.
